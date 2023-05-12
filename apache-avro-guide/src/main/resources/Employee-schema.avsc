@@ -1,0 +1,15 @@
+{
+  "type" : "record",
+  "name" : "Employee",
+  "namespace" : "com.drronidz.avro.model",
+  "fields" : [ {
+    "name" : "id",
+    "type" : "int"
+  }, {
+    "name" : "firstName",
+    "type" : "string"
+  }, {
+    "name" : "lastName",
+    "type" : "string"
+  } ]
+}
